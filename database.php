@@ -3,10 +3,10 @@ class Database
 {
 	// these are not the real passwords
 	// for real passwords, see file in ../database subdirectory
-	private static $dbName = 'customers' ; 
-	private static $dbHost = 'localhost' ;
-	private static $dbUsername = 'customer_guest';
-	private static $dbUserPassword = 'CustomerGuest123';
+	private static $dbName = 'ddhermanwi2019' ; 
+	private static $dbHost = '10.8.30.49' ;
+	private static $dbUsername = 'ddhermanwi2019';
+	private static $dbUserPassword = 'Mikedoesanal0012';
 	
 	private static $cont  = null;
 	
